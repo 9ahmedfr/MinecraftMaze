@@ -1,25 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Jwdk2u8p)
-# cosc2804-assignment3-template
-
-<!-- ------------------------------------------------- VIDEO ------------------------------------------------------ -->
-
-<h1>Video Link</h1>
-
-**[Click to Open Youtube Video](https://youtu.be/IlBDLHfr3yw?si=OXgyUfxAMLXSMBXR)**
-
-<!-- ----------------------------------------- AHMED FALULUR RAHUMAN ---------------------------------------------- -->
-
-<h1>Ahmed Falulur Rahuman (4043677)</h1>
-
-    - Maze.cpp / Maze.h (Enchancement 3 Included)
-    - mazeRunner.cpp 
-    - Coordinate.h
-    - CoordinateArray.h
-    - menuUtils.h
-    - Tests
-    - MakeFile
-
-<!-- ----------------------------------------------- MAZE ----------------------------------------------------- -->
 
 <h1>Maze.cpp / Maze.h</h1>
     
@@ -264,15 +242,7 @@ The CoordinateArray was utilized to store the types of blocks that were removed 
 
 * The runTests target in the Makefile automates the execution of all test cases, allowing users to run all tests with a single command. It provides immediate feedback on test results, indicating pass/fail status and similarity percentages. This design enhances usability by ensuring a standardized and efficient testing process, making it easy for users to validate the functionality of the mazeRunner program.
 
-<!-- ------------------------------------------- IMAS IMTHIYAS ------------------------------------------------- -->
 
-<h1>Imas Imthiyas (4036988)</h1>
-
-    - mazeRunner.cpp
-    - Agent.cpp / Agent.h (Extension 2 Included)
-    - Path.h
-    - Maze.cpp / Maze.h
-    
 <h1> mazeRunner.cpp </h1>
 
 SolveMazeMenu The SolveMazeMenu offers two options for users:
@@ -363,14 +333,6 @@ This test demonstrated that the Minecraft MazeRunner program requires the "Solve
 <h3> WallFollowerExitFound </h3>
 
 This test validated that the Minecraft MazeRunner program’s Wall Follower algorithm is capable of finding the exit when a designated marker (blue carpet) is encountered. After generating and building a random maze, the program successfully positioned the player within the maze. Upon selecting the "Show Escape Route" option, the Wall Follower algorithm initiated and navigated through a series of coordinates until it encountered the blue carpet marking the exit. The program then displayed "Exit Found!" and correctly deallocated resources, returning to the main menu. This test confirms that the Wall Follower algorithm recognizes the blue carpet as the exit and successfully terminates when it is reached.
-
-<!-- ----------------------------------------- Krittapart Veerachaipakdee ---------------------------------------------- -->
-
-<h1>Krittapart Veerachaipakdee (4069451)</h1>
-
-    - Maze.cpp / Maze.h (Enchancement 1 Included)
-    - mazeRunner.cpp
-    - Tests
 
 <!-- ----------------------------------------------- MAZE ----------------------------------------------------- -->
 
