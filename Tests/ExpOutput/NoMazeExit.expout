@@ -1,0 +1,103 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Read Maze to be validated from terminal
+4) Generate Maze Without Flattening the Terrain
+5) Back
+
+Enter Menu item to continue: 
+Enter the length and width of maze: 
+Enter the maze structure:
+Maze read successfully
+**Printing Maze**
+BasePoint: (4848, 71, 4369)
+Structure
+xxxxx
+x.x.x
+x.x.x
+x...x
+xxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+Maze built successfully
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+Maze ready to Solve...
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+Enter search type (1 for WallFollower, 2 for BreadthFirstSearch):
+Step[1]: (4851, 71, 4372)
+Step[2]: (4851, 71, 4371)
+Step[3]: (4851, 71, 4370)
+Step[4]: (4851, 71, 4371)
+Step[5]: (4851, 71, 4372)
+Step[6]: (4850, 71, 4372)
+Step[7]: (4849, 71, 4372)
+Step[8]: (4849, 71, 4371)
+Step[9]: (4849, 71, 4370)
+Step[10]: (4849, 71, 4371)
+Step[11]: (4849, 71, 4372)
+Step[12]: (4850, 71, 4372)
+Step[13]: (4851, 71, 4372)
+Step[14]: (4851, 71, 4371)
+No Exit Found!
+Incorrect Maze Provided
+Agent Destructor Called, Freeing Memory
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
